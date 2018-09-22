@@ -19,7 +19,7 @@
   ~ Contributor(s): Nils Lundquist.
   -->
 
-<project name="autocomplete-tutorial" default="war.basic">
+<project name="autocomplete-tutorial">
     <property file="./build.properties"/>
-    <import file="../common.xml"/>
+    <import file="./common.xml"/>
 </project>
