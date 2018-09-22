@@ -8,14 +8,14 @@
   <managed-bean>
     <managed-bean-name>autoCompleteDictionary</managed-bean-name>
     <managed-bean-class>
-            com.icesoft.icefaces.tutorial.component.autocomplete.AutoCompleteDictionary
+            teste.ice.AutoCompleteDictionary
         </managed-bean-class>
     <managed-bean-scope>application</managed-bean-scope>
   </managed-bean>
   <managed-bean>
     <managed-bean-name>autoCompleteBean</managed-bean-name>
     <managed-bean-class>
-            com.icesoft.icefaces.tutorial.component.autocomplete.AutoCompleteBean
+            teste.ice.AutoCompleteBean
         </managed-bean-class>
     <managed-bean-scope>request</managed-bean-scope>
     <managed-property>

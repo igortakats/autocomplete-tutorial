@@ -90,17 +90,19 @@
             <artifactId>jhighlight</artifactId>
             <version>1.0</version>
         </dependency>
-        <dependency>
-            <groupId>net.sourceforge.jexcelapi</groupId>
-            <artifactId>jxl</artifactId>
-            <version>2.6.8</version>
-            <exclusions>
+        <!-- https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
+		<dependency>
+			<groupId>net.sourceforge.jexcelapi</groupId>
+			<artifactId>jxl</artifactId>
+			<version>2.6.12</version>
+			<exclusions>
               <exclusion>
                 <groupId>log4j</groupId>
                 <artifactId>log4j</artifactId>
               </exclusion>
             </exclusions>
-        </dependency>        
+		</dependency>
+
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>

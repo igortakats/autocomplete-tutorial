@@ -31,7 +31,7 @@
  *
  */
 
-package com.icesoft.icefaces.tutorial.component.autocomplete;
+package teste.ice;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

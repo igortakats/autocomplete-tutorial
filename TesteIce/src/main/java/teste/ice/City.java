@@ -31,7 +31,7 @@
  *
  */
 
-package com.icesoft.icefaces.tutorial.component.autocomplete;
+package teste.ice;
 
 /**
  * <p>The City class is used for database information for the Autocomplete
